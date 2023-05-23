@@ -1,0 +1,93 @@
+body {
+    background-color: silver;
+    color: white;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: #ffffff;
+    color: black;
+    padding: 22px;
+
+}
+
+p {
+    padding: 5px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.zero {
+    background-color: rgb(226, 68, 160);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.one {
+    background-color:rgb(244,90,139) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.two {
+    background-color:rgb(243,106,152) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.three {
+    background-color:rgb(244,123,166) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.four {
+    background-color:rgb(245,140,178) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.five {
+    background-color:rgb(246,159,192) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.six {
+    background-color:rgb(245,176,204) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.seven {
+    background-color:rgb(0,186,136) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.eight {background-color:rgb(141, 186, 211) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.nine {background-color:rgb(121, 176, 207) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.ten {
+    background-color:rgb(105, 167, 202) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.eleven {
+    background-color:rgb(77, 154, 199) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.twelve {
+    background-color:rgb(51, 144, 197) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.thirteen {
+    background-color:rgb(28, 139, 204) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.fourteen {
+    background-color:rgb(2, 129, 202) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
